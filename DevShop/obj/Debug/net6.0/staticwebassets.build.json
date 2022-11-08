@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Av62eweXqVcq3DuFPHxYpVaSL/3fQJHDahNBdad5/Ys=",
+  "Hash": "zjbtiJChtGrXvWp143Y/tjGPtP3ePt0YRfY3cJQHL4Q=",
   "Source": "DevShop",
   "BasePath": "_content/DevShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DevShop\\wwwroot",
       "Source": "DevShop",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DevShop.styles.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DevShop.styles.css",
       "SourceId": "DevShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "DevShop.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DevShop.styles.css"
+      "OriginalItemSpec": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DevShop.styles.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevShop.bundle.scp.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevShop.bundle.scp.css",
       "SourceId": "DevShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "DevShop.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevShop.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevShop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\css\\site.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\css\\style.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\css\\style.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\css\\style-prefix.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\css\\style-prefix.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "css/style-prefix.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style-prefix.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\favicon.ico",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\banner-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\banner-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/banner-1.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\banner-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\banner-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/banner-2.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\banner-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\banner-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/banner-3.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\blog-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\blog-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/blog-1.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\blog-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\blog-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/blog-2.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\blog-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\blog-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/blog-3.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\blog-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\blog-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/blog-4.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\cta-banner.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\cta-banner.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/cta-banner.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cta-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/electronics-banner-1.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\electronics-banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/electronics-banner-2.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\electronics-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\bag.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\bag.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/bag.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\bag.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\coat.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\coat.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/coat.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\coat.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\cosmetics.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\cosmetics.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/cosmetics.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\cosmetics.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\dress.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\dress.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/dress.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\dress.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\glasses.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\glasses.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/glasses.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\glasses.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\hat.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\hat.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/hat.svg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\hat.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\jacket.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\jacket.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/jacket.svg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\jacket.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\jewelry.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\jewelry.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/jewelry.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\jewelry.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\perfume.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\perfume.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/perfume.svg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\perfume.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\quotes.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\quotes.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/quotes.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\quotes.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\shoes.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\shoes.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/shoes.svg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\shoes.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\shorts.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\shorts.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/shorts.svg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\shorts.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\tee.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\tee.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/tee.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\tee.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\icons\\watch.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\icons\\watch.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/icons/watch.svg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\watch.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\logo\\favicon.ico",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\logo\\favicon.ico",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/logo/favicon.ico",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\logo\\logo.svg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\logo\\logo.svg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/logo/logo.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\mens-banner.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\mens-banner.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/mens-banner.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\newsletter.png",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\newsletter.png",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/newsletter.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\newsletter.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\payment.png",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\payment.png",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/payment.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/4.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\belt.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\belt.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/belt.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\belt.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/clothes-1.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/clothes-2.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/clothes-3.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/clothes-4.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\clothes-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-1.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-2.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-3.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-4.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-5.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-5.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-5.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-6.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-6.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jacket-6.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jewellery-1.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jewellery-2.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/jewellery-3.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jewellery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/party-wear-1.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\party-wear-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/party-wear-2.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\party-wear-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\perfume.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\perfume.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/perfume.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\perfume.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shampoo.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shampoo.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shampoo.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shampoo.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shirt-1.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shirt-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shirt-2.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shirt-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-1.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1_1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1_1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-1_1.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-1_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-2.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2_1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2_1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-2_1.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-2_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-3.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-4.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-5.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-5.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shoe-5.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shorts-1.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shorts-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/shorts-2.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shorts-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-2.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-3.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-4.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-5.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-5.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-5.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-6.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-6.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/sports-6.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sports-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/watch-1.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-2.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-2.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/watch-2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-3.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-3.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/watch-3.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-4.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-4.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/products/watch-4.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watch-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\testimonial-1.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\testimonial-1.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/testimonial-1.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\images\\womens-banner.jpg",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\images\\womens-banner.jpg",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "images/womens-banner.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\womens-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\js\\script.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\js\\script.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\js\\site.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DevShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\source\\repos\\DevShop\\DevShop\\wwwroot\\",
+      "ContentRoot": "E:\\Dev\\Projects\\Git\\DevShop\\DevShop\\wwwroot\\",
       "BasePath": "_content/DevShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
